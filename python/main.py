@@ -3,7 +3,7 @@ from flask_cors import cross_origin
 from flask import Flask , request
 
 
-openai.api_key = "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"
+openai.api_key = "" #set your api here
 
 
 
